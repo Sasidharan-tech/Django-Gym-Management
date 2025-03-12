@@ -40,6 +40,4 @@ A simple gym management system to keep a track of all Equipment, Plans, Enquires
 - You can now login to the system!
 
 
-### Built with ♥ and :coffee: by [`Pawan Kumar`](https://pawan243.github.io/portfolio1/)
-
 Show your support by 🌟 the project!!
